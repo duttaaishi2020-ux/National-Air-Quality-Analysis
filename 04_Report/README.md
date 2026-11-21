@@ -1,4 +1,4 @@
-# 04 · Report
+# 04 · DASHBOARD
 
 EXECUTIVE OVERVIEW DASHBOARD :
 
@@ -27,3 +27,17 @@ KEY INSIGHTS :
 ▪️Interactive Filtering: Added city-based filtering to make data exploration more convenient.
 
 The dashboard highlights significant differences in air quality across cities. In the displayed data, Delhi has the highest AQI value at 238, followed by Lucknow at 144 and Patna at 122.
+
+OBSERVATIONS :
+
+1. Cities like Delhi and Patna have very high pollution, while coastal cities stay much cleaner.
+2. Most days have "Moderate" or "Satisfactory" air, rather than perfectly "Good" air.
+3.Air quality changes quickly up and down depending on the time of the year.
+4.Each city has a different main pollutant, like high Benzene in Bengaluru.
+
+SUGGESTIONS :
+
+1.Make laws for the exact chemical that is highest in each city.
+2.Upgrade air monitoring stations in coastal cities to fill in missing data.
+3.Warn the public early when air shifts from safe to moderate.
+4.Put strict pollution rules in northern cities during their severe seasons.
